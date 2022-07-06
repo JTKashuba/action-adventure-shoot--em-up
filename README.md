@@ -8,9 +8,9 @@ Designed the game to be child friendly. The player pilots butterflies, beetles, 
 There is a tutorial level for beginners to learn gameplay mechanics, as well as unlockable content for more experienced players
 
 ## Come Play!
-[PLAYABLE LINK](https://play.unity.com/mg/other/webgl-builds-44173)
-
 Make sure to turn the volume on in the bottom-right corner!
+
+[PLAYABLE LINK](https://play.unity.com/mg/other/webgl-builds-44173)
 
 (sorry, not playable on mobile)
 
