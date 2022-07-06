@@ -1,5 +1,5 @@
 # BBB
-## An Action-Adventure Shoot 'em Up
+## An Action-Adventure Shoot 'Em Up
 
 A Star Fox 64-inspired video game in C# using Unity
 
