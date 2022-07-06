@@ -9,7 +9,9 @@ There is a tutorial level for beginners to learn gameplay mechanics, as well as 
 
 ## Come Play!
 [PLAYABLE LINK](https://play.unity.com/mg/other/webgl-builds-44173)
+
 Make sure to turn the volume on in the bottom-right corner!
+
 (sorry, not playable on mobile)
 
 ## Contact Info
