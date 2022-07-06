@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Health_Pickup
+  - Enemy
+  - Obstacle
+  - Enemy_bullet
+  - Hit Zone
+  - Player_bullet
+  - Trip_Shot_Pickup
+  - Tut_Attack
+  - Tut_Dodge1
+  - Tut_Dodge2
+  - Tut_HealthPickups
+  - Tut_ExtraLifePickups
+  - Tut_Movement
+  - Tut_Welcome
+  - Tut_AttackAdvice
+  - Tut_DismissAttackAdvice
+  - Tut_BounceAdvice
+  - Tut_DismissBounceAdvice
+  - Tut_Dodge3
+  - Tut_Dodge4
+  - Tut_WeaponPickups1
+  - Tut_WeaponPickups2
+  - Big_Shot_Pickup
+  - Life_Pickup
+  - Boss_obstacle
+  - Tut_BigShot
+  - Tut_End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerBullets
+  - Player
+  - ItemPickup
+  - EnemyBullets
+  - BossBullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
